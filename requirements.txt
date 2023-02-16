@@ -1,0 +1,2 @@
+disnake==2.8.0
+captcha==0.4
